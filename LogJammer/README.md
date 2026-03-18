@@ -7,4 +7,4 @@
 - EVASION DE DEFENSA → TA0005 → T1562.002 – Impair Defenses | T1070.001 – Clear Windows Event Logs
 
 > [!NOTE]
-> **Puedes descargar los archivo "Desarollo - LogJammer.pdf" y "SEC-Analyst_LogJammer_Informe.pdf"**
+> **Puedes descargar los archivos "Desarollo - LogJammer.pdf" y "SEC-Analyst_LogJammer_Informe.pdf"
